@@ -1,2 +1,2 @@
-# Tutorial Practise for myself
+# Git Command Practise for myself
 
